@@ -187,7 +187,7 @@ nav--toggle
 intro
 //////////////////////////*/
 .intro{
-    background: url("/images/intro.jpg") center ,no-repeat;
+    background: url("images/intro.jpg") center ,no-repeat;
     /* background:linear-gradient(to bottom,#fff,#ba0000); */
     background-size: cover;
     width: 100%;
