@@ -426,7 +426,7 @@ about
     margin-bottom: 300px;
 }
 .about__inner{
-    background: url("/images/About/About.jpg") center no-repeat;
+    background: url(images/About/About.jpg) center no-repeat;
     background-size: cover;
     width: 100%;
     height: 700px; 
